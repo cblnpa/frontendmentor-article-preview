@@ -1,0 +1,27 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.font-manrope {
+  font-family: 'Manrope', sans-serif;
+}
+
+.very-dark {
+  color: hsl(217, 19%, 35%);
+}
+
+.light {
+  color: hsl(214, 17%, 51%);
+}
+
+.container {
+  width: 1440px;
+}
+
+.minh-100 {
+  height: 100vh;
+}
