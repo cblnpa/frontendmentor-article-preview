@@ -17,24 +17,33 @@ body {
   background-color: hsl(210, 46%, 95%);
 }
 
+.card {
+  width: auto;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 .font-manrope {
   font-family: 'Manrope', sans-serif;
 }
 
 .tittle-style {
   color: hsl(217, 19%, 35%);
-  margin-top: 10%;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
 }
 
 .p-style {
   color: hsl(214, 17%, 51%);
-  margin-left: 10%;
-  margin-right: 10%;
   font-size: 13px;
+  margin-left: 5%;
+  margin-right: 15%;
 }
 
-.bgcolor {
-  background-color: white;
+.span-tittle{
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.avatar-style{
+  margin-left: 5%;
 }
