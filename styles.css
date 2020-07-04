@@ -1,0 +1,40 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+html {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: hsl(210, 46%, 95%);
+}
+
+.font-manrope {
+  font-family: 'Manrope', sans-serif;
+}
+
+.tittle-style {
+  color: hsl(217, 19%, 35%);
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.p-style {
+  color: hsl(214, 17%, 51%);
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 13px;
+}
+
+.bgcolor {
+  background-color: white;
+}
